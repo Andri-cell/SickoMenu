@@ -59,6 +59,10 @@ A huge amount of features!!
 - Zoom Out  
 - SickoMenu Chat (`/sc [message]`)  
 
+## SickoMenu Showcase
+
+SickoMenu Showcase: [SHOWCASE.html](SHOWCASE.html)
+
 **Full Feature List:** [FEATURES.md](https://github.com/g0aty/SickoMenu/blob/main/FEATURES.md)  
 
 > 🔸 Features marked with **"!"** may impact game balance. Always obtain lobby consent
